@@ -1,6 +1,8 @@
-# Website for ______________
+# Introduction
 
-## PROJECT DESCRIPTION
+## Website for ______________
+
+## Project Description
 
 This project will include the creation of a new layout and design for the website. Initial discussions will guide the design process to make sure that the design incorporates the look and feel of the organization while enhancing usability.
 
@@ -16,7 +18,3 @@ The website will be built on WordPress using a custom-built theme. All pre-built
 
 All pages will be mobile-friendly, meaning that the pages can be viewed easily on any device. The layout of the page will change based on the width of the device. All hover-based navigation is removed on mobile devices and is replaced with a touch-based interface.
 
----
-
-*Complete original content preserved*
-*Last updated: 2025-07-26*

@@ -1,4 +1,4 @@
-# EXCLUSIONS
+# Exclusions
 
 ## Search Engine Optimization
 
@@ -24,7 +24,3 @@ All modern websites should be encrypted. To encrypt traffic, the site needs an S
 
 **NOTE:** A paid SSL certificate does not provide "stronger" encryption than a free certificate. There are several reasons that a paid certificate costs money. They are not a scam, but a website needs to have very specific business needs in order for those costs to be justified.
 
----
-
-*Complete original content preserved*
-*Last updated: 2025-07-26*

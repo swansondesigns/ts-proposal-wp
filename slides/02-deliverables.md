@@ -1,4 +1,4 @@
-# DELIVERABLES
+# Deliverables
 
 ### Support
 Website support is included for limited time periods depending on the need. Support that falls outside of the included provisions below will be billed at the hourly rate.
@@ -18,7 +18,3 @@ The final step with any website is to take it live. In general, this is a fairly
 ### Features
 This website does not include any custom features.
 
----
-
-*Complete original content preserved*
-*Last updated: 2025-07-26*

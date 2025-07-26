@@ -14,7 +14,3 @@ Hosting is available for $50/month and includes on-site and off-site backups, pl
 
 You do not have to host your website with me to have me build your website. I host websites for my clients as a way to provide a more comprehensive offering. I do not host websites that I did not build.
 
----
-
-*Complete original content preserved*
-*Last updated: 2025-07-26*
