@@ -1,3 +1,6 @@
+/* ========================================
+   CSS VARIABLES
+   ======================================== */
 :root {
 	--theme-color: #70748c; /* navy medium */
 	--text-color-base: #34495e;
@@ -29,29 +32,157 @@
 	/* Taupe Set */
 	--taupe: #e1ded4;
 	--taupe-light: #f6f5f2;
+
+	/* Typography Variables */
+	--font-primary: 'Open Sans', sans-serif;
+	--font-secondary: 'Raleway', sans-serif;
+	--font-serif: 'Cormorant Garamond', serif;
+	--font-mono: 'Consolas', 'Monaco', 'Courier New', monospace;
 }
 
-.sidebar-nav > ul > li > a {
-	font-size: 16px;
-	font-weight: 600;
+/* ========================================
+   BASE TYPOGRAPHY
+   ======================================== */
+body,
+.markdown-section,
+.sidebar {
+	font-family: var(--font-primary);
+	font-weight: 400;
+	line-height: 1.6;
+	font-size: 18px;
 }
 
+/* ========================================
+   MAIN CONTENT AREA
+   ======================================== */
+
+/* Content container */
+article.markdown-section {
+	max-width: 65ch;
+}
+
+/* Headings */
 .markdown-section h1 {
 	color: var(--gray-300);
-	border-bottom: 2px solid var(--gray-300);
+	border-bottom: 2px solid var(--gray-100);
 	padding-bottom: 10px;
+	font-family: var(--font-serif);
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
 }
 
 .markdown-section h2 {
 	color: var(--slate-blue-medium);
 	margin-top: 2em;
-	font-family: 'Raleway', sans-serif;
+	font-family: var(--font-secondary);
 	font-weight: 300;
 }
 
 .markdown-section h3 {
 	color: var(--gold);
 	margin-top: 1.5em;
+	font-family: var(--font-serif);
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+.markdown-section h4,
+.markdown-section h5,
+.markdown-section h6 {
+	font-family: var(--font-serif);
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+
+/* Links */
+.markdown-section a {
+	font-weight: normal;
+}
+
+/* Anchor link behavior */
+.markdown-section h1 a,
+.markdown-section h2 a,
+.markdown-section h3 a,
+.markdown-section h4 a,
+.markdown-section h5 a,
+.markdown-section h6 a {
+	pointer-events: none;
+	cursor: default;
+	color: inherit;
+}
+
+.anchor span {
+	color: inherit;
+}
+
+/* ========================================
+   SIDEBAR NAVIGATION
+   ======================================== */
+
+/* Sidebar container */
+.sidebar > h1 {
+	text-align: left;
+}
+
+.app-name {
+	text-align: left;
+	padding: 1rem;
+}
+
+/* Sidebar list items */
+.sidebar ul {
+	margin: 0;
+}
+.sidebar li {
+	margin: 0;
+	padding-left: 1rem;
+}
+
+/* Top-level navigation links */
+.sidebar .sidebar-nav > ul > li > p > a {
+	font-family: var(--font-primary);
+	font-size: 16px;
+}
+
+/* Section headings (strong/p elements) */
+.sidebar ul li p,
+.sidebar ul li strong {
+	font-size: 20px;
+	font-family: var(--font-serif);
+	text-transform: uppercase;
+	color: var(--gray-300);
+}
+.sidebar ul li strong {
+	margin-top: 1rem;
+	display: inline-block;
+}
+
+/* Section heading links */
+.sidebar ul li p a {
+	font-size: 20px;
+	font-family: var(--font-serif);
+}
+
+/* Nested list items */
+.sidebar ul li ul li strong {
+	font-size: 17px;
+	color: var(--gray-600);
+}
+
+/* Hide sub-sidebar (table of contents for headings) */
+ul.app-sub-sidebar {
+	/* display: none; */
+}
+
+/* ========================================
+   COVER PAGE
+   ======================================== */
+.cover h1 {
+	font-family: var(--font-serif);
+	font-weight: 700;
 }
 
 .cover-main > p:last-child a {
@@ -62,79 +193,4 @@
 .cover-main > p:last-child a:hover {
 	background-color: transparent;
 	color: var(--theme-color);
-}
-
-/* Hide sub-sidebar (table of contents for headings) */
-ul.app-sub-sidebar {
-	/* display: none; */
-}
-
-/* Disable anchor links only within headings and inherit colors */
-#main h1 a,
-#main h2 a,
-#main h3 a,
-#main h4 a,
-#main h5 a,
-#main h6 a {
-	pointer-events: none;
-	cursor: default;
-	color: inherit;
-}
-
-/* Make anchor spans inherit heading colors */
-.anchor span {
-	color: inherit;
-}
-
-/* Override Docsify default link styling */
-.markdown-section a {
-	font-weight: normal;
-}
-
-/* Typography - Google Fonts */
-body,
-.markdown-section,
-.sidebar {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 400;
-	line-height: 1.6;
-	font-size: 18px;
-}
-
-/* Optimal reading width */
-article.markdown-section {
-	max-width: 65ch;
-}
-
-/* Apply Cormorant Garamond to specific headings */
-.markdown-section h1,
-.markdown-section h3,
-.markdown-section h4,
-.markdown-section h5,
-.markdown-section h6 {
-	font-family: 'Cormorant Garamond', serif;
-	font-weight: 300;
-	text-transform: uppercase;
-	letter-spacing: 0.5px;
-}
-
-/* Cover page typography */
-.cover h1 {
-	font-family: 'Cormorant Garamond', serif;
-	font-weight: 700;
-}
-
-/* Sidebar typography */
-.sidebar-nav > ul > li > a {
-	font-family: 'Open Sans', sans-serif;
-	font-weight: 600;
-}
-
-.sidebar > h1 {
-	text-align: left;
-}
-
-.app-name {
-	text-align: left;
-	padding: 1rem;
 }

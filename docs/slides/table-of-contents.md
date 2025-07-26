@@ -12,7 +12,10 @@ Proposal
 
 Standard Deliverables
 ├─ Section Summary
-└─ Exclusions
+├─ SEO Limitations
+├─ Browser Support
+├─ Content Updates
+└─ SSL Certificates
 
 Budget and Timeline
 ├─ Section Summary
@@ -45,8 +48,17 @@ Detailed breakdown of what's included in your project: support structure, hourly
 ### [Section Summary](slides/standard-deliverables/section-summary.md)
 Overview of our standard deliverables and what you'll find in this section.
 
-### [Exclusions](slides/standard-deliverables/exclusions.md)
-Important clarifications about what's not included in the base project scope: SEO ranking guarantees, outdated browser support, content updates, and SSL certificate costs.
+### [SEO Limitations](slides/standard-deliverables/seo-limitations.md)
+Search engine optimization standards and ranking expectations.
+
+### [Browser Support](slides/standard-deliverables/browser-support.md)
+Our approach to browser compatibility and outdated browser support.
+
+### [Content Updates](slides/standard-deliverables/content-updates.md)
+Responsibilities for ongoing content management and updates.
+
+### [SSL Certificates](slides/standard-deliverables/ssl-certificates.md)
+SSL certificate approach, costs, and recommendations.
 
 ## Budget and Timeline
 
