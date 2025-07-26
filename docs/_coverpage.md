@@ -8,4 +8,4 @@
 -   🛡️ One-year bug-free guarantee
 -   🚀 Professional deployment and support
 
-[View Full Proposal](slides/01-introduction.md)
+[View Full Proposal](slides/introduction.md)
