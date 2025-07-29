@@ -51,7 +51,9 @@ body,
 	line-height: 1.6;
 	font-size: 18px;
 }
-
+.sidebar {
+	width: 400px;
+}
 /* ========================================
    MAIN CONTENT AREA
    ======================================== */
@@ -74,7 +76,7 @@ article.markdown-section {
 
 .markdown-section h2 {
 	color: var(--slate-blue-medium);
-	margin-top: 2em;
+	margin-top: 1em;
 	font-family: var(--font-secondary);
 	font-weight: 300;
 }
@@ -154,6 +156,7 @@ article.markdown-section {
 	font-family: var(--font-serif);
 	text-transform: uppercase;
 	color: var(--gray-300);
+	line-height: 1.2;
 }
 .sidebar ul li strong {
 	margin-top: 1rem;
