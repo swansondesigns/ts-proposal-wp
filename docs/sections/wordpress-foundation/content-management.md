@@ -4,21 +4,27 @@
 
 WordPress comes with a comprehensive set of tools for creating, organizing, and managing your website content. Understanding these built-in features helps clarify what's already included versus what requires custom development.
 
-### Two Types of Content
+### Pages and Collections
 
-WordPress organizes content into two main types, each serving different purposes:
+WordPress organizes content in two fundamental ways:
 
 #### Pages
 
-Pages are for content that doesn't change often and isn't tied to a specific date. Think of your About Us page, your Services page, or your Contact page. These are the backbone of your website structure.
+Pages are for standalone content that doesn't change often and isn't tied to a specific date. Think of your About Us page, your Services page, or your Contact page. These are the backbone of your website structure.
 
 Pages can be organized like folders on your computer. You can have main pages with sub-pages underneath them. For example, you might have a main "Services" page with individual service pages nested below it. This creates logical website addresses like yoursite.com/services/consulting.
 
-#### Posts
+#### Collections
 
-Posts are for content that's timely or regularly updated. Blog articles, news updates, and announcements are all posts. WordPress automatically organizes these by date, with the newest content appearing first. 
+Collections are groups of similar items that share common characteristics. WordPress comes with one built-in collection called "Blog" for articles and news updates. But collections can be created for any type of content you need to organize - team members, projects, testimonials, events, or products.
 
-Posts can be grouped using categories (like sections in a newspaper) and tags (like keywords that describe the content). This makes it easy for visitors to find related content and browse topics they're interested in.
+There are two ways collections are typically used:
+
+**Visitable Collections** - These create their own webpages that visitors can view directly. Each blog post, for example, has its own webpage with its own web address. A visitor can read the full article by clicking through to it.
+
+**Component Collections** - These store content that gets displayed as part of other webpages, but don't create standalone webpages themselves. For instance, you might have a collection of team member profiles that appear on your About page, or testimonials that display throughout your site. The information is stored in an organized way, but visitors don't navigate to individual testimonial pages - they see them integrated into your other content.
+
+All collections can be organized using categories (like sections in a newspaper) and tags (like keywords that describe the content). WordPress automatically keeps collections organized by date as well, with the newest items appearing first when you view them in the admin area.
 
 ### The Content Editor
 
@@ -36,11 +42,11 @@ You can upload files by dragging them directly into WordPress, and the system or
 
 Your website's navigation menus help visitors find their way around. WordPress lets you create different menus for different areas of your site - typically a main menu in the header, maybe a footer menu with important links, and sometimes sidebar menus for specific sections.
 
-Creating and organizing menus is straightforward. You simply choose which pages, posts, or custom links to include, then drag them into the order you want. You can create dropdown menus by dragging items slightly to the right to nest them under other items.
+Creating and organizing menus is straightforward. You simply choose which pages, collection items, or custom links to include, then drag them into the order you want. You can create dropdown menus by dragging items slightly to the right to nest them under other items.
 
 ### Search Functionality
 
-Every WordPress site includes basic search functionality. Visitors can search for content, and WordPress will look through all your pages and posts to find matches. The search results appear on a dedicated results page that's automatically created and styled to match your site.
+Every WordPress site includes basic search functionality. Visitors can search for content, and WordPress will look through all your pages and collection items to find matches. The search results appear on a dedicated results page that's automatically created and styled to match your site.
 
 ### Foundation for Search Engines
 
