@@ -42,10 +42,6 @@ Creating and organizing menus is straightforward. You simply choose which pages,
 
 Every WordPress site includes basic search functionality. Visitors can search for content, and WordPress will look through all your pages and posts to find matches. The search results appear on a dedicated results page that's automatically created and styled to match your site.
 
-### Managing User Feedback
-
-If your site needs to accept comments on posts or pages, WordPress includes a complete comment management system. You can review comments before they appear on your site, and WordPress includes basic spam filtering to reduce unwanted comments. When someone leaves a comment, you can receive an email notification so you can respond promptly.
-
 ### Foundation for Search Engines
 
 WordPress is built with search engines in mind. It creates clean, readable web addresses for all your content (like yoursite.com/about instead of yoursite.com/?page=123). It also generates the technical files that help search engines understand and index your site's content.
