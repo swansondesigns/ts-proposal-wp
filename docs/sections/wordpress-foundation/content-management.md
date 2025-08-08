@@ -1,93 +1,57 @@
 # Core Content Management
 
-## WordPress Content Management System
+## What WordPress Provides for Managing Your Content
 
-WordPress provides a robust content management system as its foundation. This section outlines the built-in capabilities that are relevant to your project.
+WordPress comes with a comprehensive set of tools for creating, organizing, and managing your website content. Understanding these built-in features helps clarify what's already included versus what requires custom development.
 
-### Pages and Posts
+### Two Types of Content
 
-WordPress distinguishes between two primary content types:
+WordPress organizes content into two main types, each serving different purposes:
 
 #### Pages
-- **Purpose**: Static content that doesn't change frequently
-- **Examples**: About Us, Contact, Services
-- **Features**:
-  - Hierarchical structure (parent/child relationships)
-  - Custom page templates
-  - No chronological organization
-  - Typically excluded from RSS feeds
+
+Pages are for content that doesn't change often and isn't tied to a specific date. Think of your About Us page, your Services page, or your Contact page. These are the backbone of your website structure.
+
+Pages can be organized like folders on your computer. You can have main pages with sub-pages underneath them. For example, you might have a main "Services" page with individual service pages nested below it. This creates logical website addresses like yoursite.com/services/consulting.
 
 #### Posts
-- **Purpose**: Time-based content, typically for blogs or news
-- **Examples**: Blog articles, news updates, announcements
-- **Features**:
-  - Chronological organization
-  - Category and tag taxonomies
-  - RSS feed inclusion
-  - Author attribution
-  - Comment capabilities
 
-### Content Editor
+Posts are for content that's timely or regularly updated. Blog articles, news updates, and announcements are all posts. WordPress automatically organizes these by date, with the newest content appearing first. 
 
-WordPress includes the **Gutenberg Block Editor** which provides:
+Posts can be grouped using categories (like sections in a newspaper) and tags (like keywords that describe the content). This makes it easy for visitors to find related content and browse topics they're interested in.
 
-- **Visual Editing**: See content as it will appear
-- **Block-Based Layout**: Mix text, images, videos, and other content types
-- **Reusable Blocks**: Save and reuse common content patterns
-- **Revision History**: Track and restore previous versions
-- **Auto-save**: Prevents content loss
+### The Content Editor
 
-### Media Library
+WordPress provides a visual editor that works much like familiar word processing software. You can format text, add images, embed videos, and create layouts without needing to know any code. The editor saves your work automatically as you type, and keeps a history of all changes so you can restore earlier versions if needed.
 
-Built-in media management includes:
+The editor uses a modern approach where content is organized in blocks - a paragraph is a block, an image is a block, a heading is a block. This makes it easy to rearrange content by moving blocks around, similar to rearranging slides in a presentation.
 
-- **File Types Supported**: Images (JPG, PNG, GIF, WebP), Videos, PDFs, Documents
-- **Automatic Image Sizing**: Creates multiple sizes for responsive display
-- **Media Organization**: Searchable, filterable, date-organized
-- **Direct Upload**: Drag-and-drop file uploading
-- **Basic Image Editing**: Crop, rotate, scale
+### Managing Images and Files
 
-### Menu System
+The Media Library is WordPress's filing system for all your images, documents, and other files. When you upload an image, WordPress automatically creates several sizes - thumbnail, medium, large, and full size. This means your website can display the right size image for different situations, keeping pages loading quickly.
 
-WordPress provides flexible navigation management:
+You can upload files by dragging them directly into WordPress, and the system organizes them by date. Finding files later is simple with built-in search and filtering tools. Basic image editing is included too - you can crop images, rotate them, or flip them without needing separate software.
 
-- **Multiple Menu Locations**: Header, footer, sidebar menus
-- **Drag-and-Drop Organization**: Easy menu structure creation
-- **Menu Item Types**:
-  - Pages
-  - Posts
-  - Custom Links
-  - Categories
-- **Nested Menus**: Multi-level dropdown support
+### Navigation Menus
+
+Your website's navigation menus help visitors find their way around. WordPress lets you create different menus for different areas of your site - typically a main menu in the header, maybe a footer menu with important links, and sometimes sidebar menus for specific sections.
+
+Creating and organizing menus is straightforward. You simply choose which pages, posts, or custom links to include, then drag them into the order you want. You can create dropdown menus by dragging items slightly to the right to nest them under other items.
 
 ### Search Functionality
 
-Basic search capabilities include:
+Every WordPress site includes basic search functionality. Visitors can search for content, and WordPress will look through all your pages and posts to find matches. The search results appear on a dedicated results page that's automatically created and styled to match your site.
 
-- **Content Search**: Searches post and page content
-- **Title Search**: Searches content titles
-- **Search Widget**: Can be placed in sidebars or footers
-- **Search Results Page**: Automatically generated results display
+### Managing User Feedback
 
-### Comments System
+If your site needs to accept comments on posts or pages, WordPress includes a complete comment management system. You can review comments before they appear on your site, and WordPress includes basic spam filtering to reduce unwanted comments. When someone leaves a comment, you can receive an email notification so you can respond promptly.
 
-If needed for your project:
+### Foundation for Search Engines
 
-- **Moderation Queue**: Review before publishing
-- **Spam Protection**: Basic spam filtering
-- **Nested Comments**: Reply threading
-- **Email Notifications**: Alert on new comments
+WordPress is built with search engines in mind. It creates clean, readable web addresses for all your content (like yoursite.com/about instead of yoursite.com/?page=123). It also generates the technical files that help search engines understand and index your site's content.
 
-### SEO Foundations
-
-WordPress includes SEO-friendly features:
-
-- **Clean Permalinks**: Customizable URL structures
-- **Meta Tags**: Title and description management
-- **XML Sitemaps**: Automatic generation (WordPress 5.5+)
-- **Semantic HTML**: Proper heading hierarchy
-- **Responsive Images**: Automatic srcset implementation
+The HTML code that WordPress produces follows modern web standards, making it easier for search engines to understand your content structure and importance.
 
 ---
 
-*These are the core content management features included with every WordPress installation. Additional functionality can be added through custom development or plugins as outlined in the Custom Development & Deliverables section.*
+*This foundation of features comes standard with WordPress. In the Custom Development section, we'll explain how we build upon these capabilities to create the specific features and functionality your website needs.*
