@@ -1,37 +1,47 @@
-- [Introduction](sections/introduction.md)
+- [Executive Summary](sections/executive-summary.md)
 
-- **Project Description**
-  - [Overview](sections/project-description.md)
-  - [Design Process](sections/design-process.md)
-  - [Website Development](sections/website-development.md)
+- **Section 1: Scope, Requirements & Deliverables**
+  
+  - **WordPress Foundation**
+    - [Core Content Management](sections/wordpress-foundation/content-management.md)
+    - [User Management System](sections/wordpress-foundation/user-management.md)
+    - [Built-in Features](sections/wordpress-foundation/built-in-features.md)
+  
+  - **Client Requirements**
+    - [Content & Publishing](sections/requirements/content-publishing.md)
+    - [User Access & Security](sections/requirements/user-access.md)
+    - [Document Management](sections/requirements/document-management.md)
+    - [Search & Discovery](sections/requirements/search-discovery.md)
+    - [Analytics & Reporting](sections/requirements/analytics.md)
+  
+  - **Custom Development & Deliverables**
+    - [Design & User Experience](sections/deliverables/design-ux.md)
+    - [Custom Features](sections/deliverables/custom-features.md)
+    - [Integration Solutions](sections/deliverables/integrations.md)
+    - [Performance & Optimization](sections/deliverables/performance.md)
+    - [Testing & Quality Assurance](sections/deliverables/testing-qa.md)
 
-- **Features and Requirements**
-  - [Custom Features](sections/features.md)
-  - [Page Building](sections/page-building.md)
-  - [Search Engine Optimization](sections/seo.md)
-  - [Document Management](sections/document-management.md)
-  - [Blogs and Podcasts](sections/blogs-podcasts.md)
+- **Section 2: Budget & Timeline**
+  
+  - [Project Pricing](sections/budget-timeline/pricing.md)
+  - [Payment Schedule](sections/budget-timeline/payment-schedule.md)
+  - [Project Timeline](sections/budget-timeline/timeline.md)
+  - [Ongoing Costs](sections/budget-timeline/ongoing-costs.md)
+  - [Support & Maintenance](sections/budget-timeline/support-maintenance.md)
 
-- **Support and Maintenance**
-  - [Support Overview](sections/support.md)
-  - [Bugs & Errors](sections/bugs-errors.md)
-  - [Documentation](sections/documentation.md)
-
-- **Budget and Timeline**
-  - [Pricing](sections/pricing.md)
-  - [Ongoing Costs](sections/ongoing-costs.md)
-  - [Timeline](sections/timeline.md)
-
-- **Deployment**
-  - [Deployment Process](sections/deployment.md)
-  - [Hosting Options](sections/hosting.md)
-
-- **Standard Deliverables**
-  - [WordPress Features](sections/wordpress-features.md)
-  - [Mobile Responsiveness](sections/mobile-responsive.md)
-
-- **Exclusions**
-  - [SEO Limitations](sections/exclusions-seo.md)
-  - [Browser Support](sections/exclusions-browsers.md)
-  - [Content Updates](sections/exclusions-content.md)
-  - [SSL Certificates](sections/exclusions-ssl.md)
+- **Section 3: Appendix**
+  
+  - **Additional Information**
+    - [WordPress Technical Details](sections/appendix/wordpress-technical.md)
+    - [Hosting Specifications](sections/appendix/hosting-specs.md)
+    - [Plugin Recommendations](sections/appendix/plugins.md)
+  
+  - **Terms & Conditions**
+    - [Project Exclusions](sections/appendix/exclusions.md)
+    - [Browser Support Policy](sections/appendix/browser-support.md)
+    - [Bug-Free Guarantee](sections/appendix/bug-guarantee.md)
+  
+  - **Reference Materials**
+    - [SEO Best Practices](sections/appendix/seo-practices.md)
+    - [Security Guidelines](sections/appendix/security.md)
+    - [Glossary of Terms](sections/appendix/glossary.md)
