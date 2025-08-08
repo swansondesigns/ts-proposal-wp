@@ -28,9 +28,9 @@ All collections can be organized using categories (like sections in a newspaper)
 
 ### The Content Editor
 
-WordPress provides a visual editor that works much like familiar word processing software. You can format text, add images, embed videos, and create layouts without needing to know any code. The editor saves your work automatically as you type, and keeps a history of all changes so you can restore earlier versions if needed.
+WordPress includes a basic text editor similar to older versions of Microsoft Word. It has basic formatting tools - bold, italic, headings, bullet points, and the ability to add images or links. Content is edited in one large text box, and what you see while editing doesn't always match how it appears on your website.
 
-The editor uses a modern approach where content is organized in blocks - a paragraph is a block, an image is a block, a heading is a block. This makes it easy to rearrange content by moving blocks around, similar to rearranging slides in a presentation.
+While we include this description for completeness, modern websites do not use this feature much. A description of what we will use instead is in the Development and Deliverables section below.
 
 ### Managing Images and Files
 
@@ -50,9 +50,7 @@ Every WordPress site includes basic search functionality. Visitors can search fo
 
 ### Foundation for Search Engines
 
-WordPress is built with search engines in mind. It creates clean, readable web addresses for all your content (like yoursite.com/about instead of yoursite.com/?page=123). It also generates the technical files that help search engines understand and index your site's content.
-
-The HTML code that WordPress produces follows modern web standards, making it easier for search engines to understand your content structure and importance.
+WordPress automatically creates search-engine-friendly web addresses based on your content structure. When you organize pages in parent/child relationships, WordPress builds logical paths that help both visitors and search engines understand your site structure. For example, if you have a main "Services" page with "Consulting" as a sub-page, WordPress creates the address yoursite.com/services/consulting. This hierarchical structure helps search engines understand which content is related and how your site is organized.
 
 ---
 
