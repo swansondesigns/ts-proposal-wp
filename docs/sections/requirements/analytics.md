@@ -6,7 +6,7 @@ Understanding how your website is used is critical for both improving user exper
 
 ### Google Tag Manager Integration
 
-Your organization uses Google Tag Manager as your primary analytics platform. The website must:
+Tri-State uses Google Tag Manager as the primary analytics platform. The website must:
 
 - Support full Google Tag Manager implementation
 - Allow for custom event tracking

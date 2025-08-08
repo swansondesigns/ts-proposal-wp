@@ -1,8 +1,8 @@
 # Executive Summary
 
-## WordPress Development Proposal
+## WordPress Development Proposal for Tri-State
 
-This proposal outlines a comprehensive solution for developing a professional WordPress website with custom design and functionality tailored to your organization's specific needs.
+This proposal outlines a comprehensive solution for developing a professional WordPress website with custom design and functionality tailored to Tri-State's specific needs.
 
 ### Proposal Structure
 
@@ -34,7 +34,7 @@ Supporting documentation including:
 
 ### Key Highlights
 
-- **Custom WordPress Theme**: Built specifically for your organization
+- **Custom WordPress Theme**: Built specifically for Tri-State
 - **Mobile-Responsive Design**: Optimized for all devices and screen sizes
 - **Professional Design Process**: Including concept development and revision rounds
 - **One-Year Bug-Free Guarantee**: Complete peace of mind post-launch

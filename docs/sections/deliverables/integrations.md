@@ -6,11 +6,11 @@ Your website doesn't exist in isolation - it needs to work seamlessly with your 
 
 ### Compliance and Audit Systems
 
-We'll build custom solutions to address your SEC compliance requirements:
+We'll build custom solutions to address Tri-State's SEC compliance requirements:
 
 #### Proof of Posting System
 
-A custom-built system that provides indisputable evidence of when documents were posted to your website:
+A custom-built system that provides indisputable evidence of when documents were posted to the Tri-State website:
 
 - Automatic timestamp recording when documents are published
 - Cryptographic verification of posting times
@@ -19,7 +19,7 @@ A custom-built system that provides indisputable evidence of when documents were
 - Automated notifications to compliance team
 - Historical record keeping with version tracking
 
-This system will finally give you the ability to prove you've met your regulatory posting requirements, removing uncertainty and risk from your compliance process.
+This system will finally give Tri-State the ability to prove compliance with regulatory posting requirements, removing uncertainty and risk from the compliance process.
 
 #### Document Access Control
 

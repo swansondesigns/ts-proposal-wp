@@ -27,9 +27,9 @@ The massive WordPress community is one of your greatest assets. With millions of
 
 ### Future-Proof Investment
 
-Choosing WordPress means your website investment is protected. The platform's dominance isn't accidental - it's earned through consistent delivery of what organizations need. As web technologies evolve, WordPress evolves with them, ensuring your website remains modern and functional for years to come.
+Choosing WordPress means Tri-State's website investment is protected. The platform's dominance isn't accidental - it's earned through consistent delivery of what organizations need. As web technologies evolve, WordPress evolves with them, ensuring your website remains modern and functional for years to come.
 
-Your content, your design, and your functionality are all built on a platform that will be here for the long term. This stability, combined with the flexibility to grow and adapt as your needs change, makes WordPress the smart choice for organizations planning for the future.
+Tri-State's content, design, and functionality will be built on a platform that will be here for the long term. This stability, combined with the flexibility to grow and adapt as your needs change, makes WordPress the smart choice for organizations planning for the future.
 
 ---
 

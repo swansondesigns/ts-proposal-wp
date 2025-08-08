@@ -2,11 +2,11 @@
 
 ## Custom Design Solutions
 
-Every aspect of your website will be custom designed to reflect your brand and meet your specific needs. This isn't a template-based solution - it's a completely custom design created specifically for your organization.
+Every aspect of the Tri-State website will be custom designed to reflect your brand and meet your specific needs. This isn't a template-based solution - it's a completely custom design created specifically for Tri-State.
 
 ### Design Process
 
-We begin with your homepage, creating initial concepts that capture your organization's personality and goals. Through a collaborative revision process, we'll refine the design until it perfectly represents your brand. Once the homepage is approved, we'll extend that design language throughout all key pages of your site.
+We begin with Tri-State's homepage, creating initial concepts that capture your organization's personality and goals. Through a collaborative revision process with the marketing team, we'll refine the design until it perfectly represents the Tri-State brand. Once the homepage is approved, we'll extend that design language throughout all key pages of your site.
 
 ### Mobile-First Design
 
