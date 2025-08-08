@@ -1,4 +1,4 @@
-# User Management System
+# User Management
 
 ## Managing Who Can Access Your Website
 

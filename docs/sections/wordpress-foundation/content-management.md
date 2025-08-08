@@ -1,4 +1,4 @@
-# Core Content Management
+# Content Management
 
 ## What WordPress Provides for Managing Your Content
 

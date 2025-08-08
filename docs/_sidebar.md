@@ -2,10 +2,10 @@
 
 - **Section 1: Scope, Requirements & Deliverables**
   
-  - **WordPress Foundation**
-    - [Core Content Management](sections/wordpress-foundation/content-management.md)
-    - [User Management System](sections/wordpress-foundation/user-management.md)
-    - [Built-in Features](sections/wordpress-foundation/built-in-features.md)
+  - **WordPress**
+    - [About WordPress](sections/wordpress-foundation/about-wordpress.md)
+    - [Content Management](sections/wordpress-foundation/content-management.md)
+    - [User Management](sections/wordpress-foundation/user-management.md)
   
   - **Client Requirements**
     - [Content & Publishing](sections/requirements/content-publishing.md)
