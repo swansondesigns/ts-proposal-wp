@@ -1,60 +1,51 @@
 # User Access & Security
 
-## Controlled Access Requirements
+## Employee Access Management
 
-Your organization has specific needs around controlling who can access certain content on your website, both for internal team members and external stakeholders.
+Tri-State needs a system that allows multiple employees to make website updates without requiring full administrator privileges for everyone.
 
-### Temporary Limited Access for External Users
+### Role-Based Access Control
 
-You need a system that allows members of the public to request temporary access to specific protected content. This requirement includes:
+Different employees need different levels of access to website functions:
 
-- A registration process where external users can request access
-- Approval workflow for granting access to specific pages or sections
-- Time-limited access that automatically expires
-- Clear distinction between public content and protected content
-- Audit trail of who accessed what and when
+-   **Content Editors** - Can create, edit, and publish blog posts, news, and general content
+-   **Blog Editors** - Limited to blog posts and news articles only (no access to pages or other content types)
+-   **Site Administrators** - Full access to all website functions and settings
 
-This is particularly important for investor relations materials, regulatory filings, and other sensitive documents that need controlled distribution.
+### Content Workflow
 
-### Protected Document Storage
+The system should support content management workflows:
 
-Not all documents on your website should be publicly accessible. You require a secure document management system where:
+-   Draft content that can be saved and revised before publishing
+-   Ability to schedule content for future publication
+-   Content review and approval processes when needed
+-   Version control to track changes and revert if necessary
 
-- Documents can be uploaded and stored securely
-- Direct URL access to documents can be restricted
-- Only authenticated and authorized users can download protected files
-- The system prevents unauthorized sharing of document links
-- Different documents can have different access levels
+## Temporary External User Access
 
-Simply knowing or guessing a document's web address should not grant access to it. This is critical for confidential materials, financial documents, and other sensitive information.
+Tri-State occasionally needs to provide limited website access to approved external parties such as contractors, consultants, or business partners.
 
-### Internal User Management
+### Access Request Process
 
-Your team members need varying levels of access to the website's administrative functions:
+External users can request access through a formal process:
 
-- Content creators who can draft and edit content
-- Reviewers who can approve content for publication  
-- Administrators who can manage users and settings
-- Department-specific access for relevant content areas
+-   Online application form for access requests
+-   Internal approval workflow for Tri-State staff to review requests
+-   Ability to specify which protected pages or sections the user needs access to
+-   Documentation of the business purpose for the access request
 
-### Security Compliance
+### Temporary Account Management
 
-Your industry requires adherence to security best practices:
+Once approved, temporary accounts provide controlled access:
 
-- Strong password requirements
-- Regular security updates
-- Activity logging for audit purposes
-- Secure data transmission
-- Protection against common web vulnerabilities
+-   Access restricted to specific password-protected pages or sections
+-   No ability to make changes to website content or settings
+-   Clear identification that the user has temporary/external status
 
-### Access Reporting
+---
 
-You need visibility into how protected content is being accessed:
+## Questions
 
-- Who is accessing protected content
-- When access occurred
-- What content was accessed
-- Failed access attempts
-- User activity patterns
+**Automatic Account Expiration**: Would you like temporary accounts to automatically expire after a set period (30 days, 60 days, etc.) or would you prefer to manually manage account access on a case-by-case basis?
 
-This reporting is essential for both security monitoring and regulatory compliance.
+**Form Management Role**: Would you like a dedicated user role for form management that provides access only to create, modify, and view form submissions without access to other website content or settings?

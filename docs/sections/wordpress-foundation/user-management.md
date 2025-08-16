@@ -26,4 +26,4 @@ WordPress keeps track of who creates and modifies content. Every page, blog post
 
 ---
 
-*This foundation of user management comes standard with WordPress. For more sophisticated access control, workflow management, or integration with existing systems, we can extend these capabilities as outlined in the Custom Development section.*
+_This foundation of user management comes standard with WordPress. For more sophisticated access control, workflow management, or integration with existing systems, we can extend these capabilities as needed._

@@ -32,7 +32,7 @@ The existing Tri-State website contains a significant amount of content that may
 
 Content migration can range from a complete transfer of all existing content to a selective migration of only current, relevant materials. Some organizations use a website redesign as an opportunity to audit and clean up their content, migrating only what's still valuable and leaving outdated information behind.
 
-We should discuss what content needs to be migrated, including pages, blog posts, news articles, documents, and media files. If migration is needed, we'll need to determine who is responsible for the migration work. Will your team handle copying content to the new site, or should we include migration services in the project scope? 
+We should discuss what content needs to be migrated, including pages, blog posts, news articles, documents, and media files. If migration is needed, we'll need to determine who is responsible for the migration work. Will your team handle copying content to the new site, or should we include migration services in the project scope?
 
 The complexity and cost of migration depends on the volume of content and how it needs to be reorganized. Straight transfers are simpler than migrations that require reformatting or restructuring content for new layouts.
 
@@ -54,4 +54,4 @@ These features can add efficiency to your content management process, but they a
 
 ### Other Items for Discussion
 
-*[Additional discussion items will be added here as we identify features that need client input]*
+_[Additional discussion items will be added here as we identify features that need to be included]_

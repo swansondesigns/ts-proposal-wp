@@ -8,9 +8,17 @@ Tri-State requires professional hosting infrastructure that provides reliability
 
 Beyond the live website, Tri-State needs separate environments for testing changes before they go live. This prevents mistakes on the production site and allows for proper review and approval processes.
 
+_Note: These environments are used for reviewing code changes, new features, and software updates - not for content review or approval workflows._
+
 ### Backup and Recovery
 
-The hosting solution must include comprehensive backup systems that protect against data loss, allow for quick recovery when needed, and provide peace of mind that the website can be restored if something goes wrong.
+The hosting solution must include comprehensive backup systems with:
+
+-   Automated daily backups for continuous protection
+-   Ability to create custom backups by either the developer or Tri-State staff
+-   Restore capabilities available to both the developer and Tri-State staff
+-   Complete site management tools and administrative access
+-   Quick recovery processes that minimize downtime
 
 ### Security
 
@@ -22,8 +30,4 @@ The website must load quickly for visitors across the country, handle traffic sp
 
 ### Professional Support
 
-Both the development team and Tri-State staff need access to knowledgeable support when issues arise. The hosting provider should offer WordPress expertise, not just general server support.
-
-### Compliance Standards
-
-The hosting provider must meet appropriate compliance and security standards for a regulated utility company, including proper certifications and audit procedures.
+Both the development team and Tri-State staff need access to knowledgeable support when issues arise. The hosting provider should offer WordPress expertise, not just general server support. Professional support should be easily accessible to both parties when assistance is needed.

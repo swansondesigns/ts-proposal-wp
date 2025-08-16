@@ -14,8 +14,14 @@ The key requirement is flexibility with consistency - the ability to create uniq
 
 Beyond standard page templates and content blocks, Tri-State occasionally needs to create unique content presentations for special initiatives, campaigns, or regulatory requirements. These one-off needs might include:
 
-- Special landing pages for campaigns
-- Unique layouts for annual reports
-- Specialized content that doesn't fit standard templates
+-   Special landing pages for campaigns
+-   Unique layouts for annual reports
+-   Specialized content that doesn't fit standard templates
 
 You need a system that provides structure for everyday content creation while remaining flexible enough to accommodate special requirements without compromising the integrity of the overall system.
+
+---
+
+## Questions
+
+**Workflow and Publishing**: How should content creation, review, and publishing workflows be structured? See [Workflow and Publishing](sections/requirements/for-discussion.md) in the For Discussion section for detailed considerations.
