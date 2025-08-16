@@ -1,4 +1,4 @@
-# User Access & Security
+# User Access
 
 ## Employee Access Management
 
