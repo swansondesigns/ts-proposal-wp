@@ -33,11 +33,11 @@
         -   [User Access & Security](sections/deliverables/user-access-security.md)
         -   [Analytics & Tracking](sections/deliverables/analytics-tracking.md)
         -   [Hosting](sections/deliverables/hosting.md)
+        -   [Performance](sections/deliverables/performance.md)
 
 -   **Section 2: Process**
 
     -   [Design & User Experience](sections/deliverables/design-ux.md)
-    -   [Integration Solutions](sections/deliverables/integrations.md)
 
 -   **Section 3: Budget & Timeline**
 
