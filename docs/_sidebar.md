@@ -42,12 +42,11 @@
 -   **Section 3: Budget & Timeline**
 
     -   [Project Pricing](sections/budget-timeline/pricing.md)
-    -   [Payment Schedule](sections/budget-timeline/payment-schedule.md)
     -   [Project Timeline](sections/budget-timeline/timeline.md)
     -   [Ongoing Costs](sections/budget-timeline/ongoing-costs.md)
-    -   [Support & Maintenance](sections/budget-timeline/support-maintenance.md)
+    <!-- -   [Support & Maintenance](sections/budget-timeline/support-maintenance.md) -->
 
--   **Section 4: Appendix**
+<!-- -   **Section 4: Appendix**
 
     -   **Additional Information**
 
@@ -64,4 +63,4 @@
     -   **Reference Materials**
         -   [SEO Best Practices](sections/appendix/seo-practices.md)
         -   [Security Guidelines](sections/appendix/security.md)
-        -   [Glossary of Terms](sections/appendix/glossary.md)
+        -   [Glossary of Terms](sections/appendix/glossary.md) -->
