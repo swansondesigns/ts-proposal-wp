@@ -1,8 +1,8 @@
-# Document Management
+# SEC Compliance
 
-## Regulatory and Document Requirements
+## Regulatory Compliance Requirements
 
-Tri-State has specific requirements for document management driven by regulatory compliance and stakeholder communication needs.
+Tri-State has specific requirements for regulatory compliance, particularly around SEC requirements for timely and verifiable posting of documents.
 
 ### SEC Compliance - Proof of Posting
 

@@ -32,6 +32,16 @@ Basic security measures will be included:
 -   Protected content areas that require authentication
 -   Clear user identification to distinguish between internal staff and temporary external users
 
+### Private File Designation
+
+We will implement the **Prevent Direct Access (PDA)** plugin to secure uploaded files and documents:
+
+-   **One-Click Media Protection** - Secure files directly from the WordPress Media Library with simple interface controls
+-   **Prevent Search Engines and AI Indexers** - Prevents search engines and AI indexers from accessing and indexing protected files
+-   **Role-Based Permissions** - File authors and administrators maintain access while blocking everyone else
+
+This feature mirrors the private file manager from the current website solution.
+
 ---
 
 ## Questions
