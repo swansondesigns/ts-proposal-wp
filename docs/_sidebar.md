@@ -1,50 +1,56 @@
 -   [Executive Summary](sections/executive-summary.md)
 
--   **Section 1: Scope, Requirements & Deliverables**
+-   **Section 1: WordPress**
 
-    -   **WordPress**
+    -   [About WordPress](sections/1-wordpress/about-wordpress.md)
+    -   [Content Management](sections/1-wordpress/content-management.md)
+    -   [User Management](sections/1-wordpress/user-management.md)
 
-        -   [About WordPress](sections/wordpress-foundation/about-wordpress.md)
-        -   [Content Management](sections/wordpress-foundation/content-management.md)
-        -   [User Management](sections/wordpress-foundation/user-management.md)
+-   **Section 2: Client Requirements**
 
-    -   **Client Requirements**
+    -   [Content Builder](sections/2-requirements/content-builder.md)
+    -   [Blogs](sections/2-requirements/blogs.md)
+    -   [Podcast](sections/2-requirements/podcast.md)
+    -   [Forms](sections/2-requirements/forms.md)
+    -   [Design](sections/2-requirements/design.md)
+    -   [Document Management](sections/2-requirements/document-management.md)
+    -   [Full Development Freedom](sections/2-requirements/full-development-freedom.md)
+    -   [User Access](sections/2-requirements/user-access.md)
+    -   [Analytics & Tracking](sections/2-requirements/analytics-tracking.md)
+    -   [Hosting](sections/2-requirements/hosting.md)
 
-        -   [Content Builder](sections/requirements/content-builder.md)
-        -   [Blogs](sections/requirements/blogs.md)
-        -   [Podcast](sections/requirements/podcast.md)
-        -   [Forms](sections/requirements/forms.md)
-        -   [Design](sections/requirements/design.md)
-        -   [Document Management](sections/requirements/document-management.md)
-        -   [Full Development Freedom](sections/requirements/full-development-freedom.md)
-        -   [User Access](sections/requirements/user-access.md)
-        -   [Analytics & Tracking](sections/requirements/analytics-tracking.md)
-        -   [Hosting](sections/requirements/hosting.md)
-        -   [For Discussion](sections/requirements/for-discussion.md)
+-   **Section 3: Deliverables**
 
-    -   **Deliverables**
-        -   [Content Builder](sections/deliverables/content-builder.md)
-        -   [Blogs](sections/deliverables/blogs.md)
-        -   [Podcast](sections/deliverables/podcast.md)
-        -   [Forms](sections/deliverables/forms.md)
-        -   [Design](sections/deliverables/design.md)
-        -   [Document Management](sections/deliverables/document-management.md)
-        -   [Full Development Freedom](sections/deliverables/full-development-freedom.md)
-        -   [User Access](sections/deliverables/user-access.md)
-        -   [Analytics & Tracking](sections/deliverables/analytics-tracking.md)
-        -   [Hosting](sections/deliverables/hosting.md)
-        -   [Performance](sections/deliverables/performance.md)
+    -   [Content Builder](sections/3-deliverables/content-builder.md)
+    -   [Blogs](sections/3-deliverables/blogs.md)
+    -   [Podcast](sections/3-deliverables/podcast.md)
+    -   [Forms](sections/3-deliverables/forms.md)
+    -   [Design](sections/3-deliverables/design.md)
+    -   [Document Management](sections/3-deliverables/document-management.md)
+    -   [Full Development Freedom](sections/3-deliverables/full-development-freedom.md)
+    -   [User Access](sections/3-deliverables/user-access.md)
+    -   [Analytics & Tracking](sections/3-deliverables/analytics-tracking.md)
+    -   [Hosting](sections/3-deliverables/hosting.md)
+    -   [Performance](sections/3-deliverables/performance.md)
 
--   **Section 2: Process**
+-   **Section 4: Process**
 
-    -   [Design & User Experience](sections/deliverables/design-ux.md)
+    -   [Design & User Experience](sections/4-process/design-ux.md)
 
--   **Section 3: Budget & Timeline**
+-   **Section 5: Visual Directions**
 
-    -   [Project Pricing](sections/budget-timeline/pricing.md)
-    -   [Project Timeline](sections/budget-timeline/timeline.md)
-    -   [Ongoing Costs](sections/budget-timeline/ongoing-costs.md)
-    <!-- -   [Support & Maintenance](sections/budget-timeline/support-maintenance.md) -->
+    -   [Visual Direction Concepts](sections/5-visual-directions/concepts.md)
+
+-   **Section 6: Budget & Timeline**
+
+    -   [Project Pricing](sections/6-budget-timeline/pricing.md)
+    -   [Project Timeline](sections/6-budget-timeline/timeline.md)
+    -   [Ongoing Costs](sections/6-budget-timeline/ongoing-costs.md)
+    <!-- -   [Support & Maintenance](sections/6-budget-timeline/support-maintenance.md) -->
+
+-   **Section 7: For In-Depth Discussion**
+
+    -   [Discussion Topics](sections/7-discussion/topics.md)
 
 <!-- -   **Section 4: Appendix**
 
