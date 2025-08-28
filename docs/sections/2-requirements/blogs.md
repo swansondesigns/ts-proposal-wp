@@ -35,8 +35,3 @@ Each of these channels needs:
 
 The system must make it easy for the marketing team to manage multiple content streams without confusion, while presenting a unified experience to website visitors.
 
----
-
-## Questions
-
-**Cross-referencing capabilities**: Would you like the ability to link related content across different channels? For example, linking a blog post about energy efficiency to a related resource article about battery storage, or connecting a news announcement to a follow-up feature interview?

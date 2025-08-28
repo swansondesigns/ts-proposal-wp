@@ -27,8 +27,3 @@ With Google Tag Manager properly implemented, Tri-State will be able to:
 -   Set up custom analytics for specific campaigns or initiatives
 -   Add new tracking without developer assistance
 
----
-
-## Questions
-
-**Additional Analytics Requirements**: Are there any other analytics, tracking, or measurement tools that need to be integrated into the website beyond Google Tag Manager?

@@ -42,10 +42,3 @@ We will implement the **Prevent Direct Access (PDA)** plugin to secure uploaded 
 
 This feature mirrors the private file manager from the current website solution.
 
----
-
-## Questions
-
-**Account Expiration**: Should temporary external accounts automatically expire after a set period, or would you prefer manual account management?
-
-**Form Management Role**: Would you like a dedicated user role specifically for form management with access only to form creation and submission viewing?

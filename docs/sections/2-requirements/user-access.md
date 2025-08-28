@@ -42,10 +42,3 @@ Once approved, temporary accounts provide controlled access:
 -   No ability to make changes to website content or settings
 -   Clear identification that the user has temporary/external status
 
----
-
-## Questions
-
-**Automatic Account Expiration**: Would you like temporary accounts to automatically expire after a set period (30 days, 60 days, etc.) or would you prefer to manually manage account access on a case-by-case basis?
-
-**Form Management Role**: Would you like a dedicated user role for form management that provides access only to create, modify, and view form submissions without access to other website content or settings?
