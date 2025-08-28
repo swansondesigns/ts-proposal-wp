@@ -41,9 +41,8 @@
 
 -   **Section 6: Budget**
 
-    -   [Project Pricing](sections/6-budget-timeline/pricing.md)
-    -   [Ongoing Costs](sections/6-budget-timeline/ongoing-costs.md)
-    <!-- -   [Support & Maintenance](sections/6-budget-timeline/support-maintenance.md) -->
+    -   [Project Pricing](sections/6-budget/pricing.md)
+    -   [Ongoing Costs](sections/6-budget/ongoing-costs.md)
 
 -   **Section 7: Modern Website Essentials**
 
