@@ -15,7 +15,6 @@
     -   [SEC Compliance](sections/2-requirements/sec-compliance.md)
     -   [Full Development Freedom](sections/2-requirements/full-development-freedom.md)
     -   [User Access](sections/2-requirements/user-access.md)
-    -   [Analytics & Tracking](sections/2-requirements/analytics-tracking.md)
 
 -   **Section 3: Deliverables**
 
@@ -26,7 +25,6 @@
     -   [SEC Compliance](sections/3-deliverables/sec-compliance.md)
     -   [Full Development Freedom](sections/3-deliverables/full-development-freedom.md)
     -   [User Access](sections/3-deliverables/user-access.md)
-    -   [Analytics & Tracking](sections/3-deliverables/analytics-tracking.md)
 
 -   **Section 4: Process**
 
@@ -47,6 +45,7 @@
 
     -   [Hosting](sections/7-discussion/hosting.md)
     -   [Forms](sections/7-discussion/forms.md)
+    -   [Analytics & Tracking](sections/7-discussion/analytics-tracking.md)
     -   [Development Best Practices](sections/7-discussion/development-best-practices.md)
     -   [Discussion Topics](sections/7-discussion/topics.md)
 

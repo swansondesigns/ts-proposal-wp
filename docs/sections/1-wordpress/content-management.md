@@ -50,7 +50,7 @@ Every WordPress site includes basic search functionality. Visitors can search fo
 
 ### Foundation for Search Engines
 
-WordPress automatically creates search-engine-friendly web addresses based on your content structure. When you organize pages in parent/child relationships, WordPress builds logical paths that help both visitors and search engines understand your site structure. For example, if you have a main "Services" page with "Consulting" as a sub-page, WordPress creates the address yoursite.com/services/consulting. This hierarchical structure helps search engines understand which content is related and how your site is organized.
+WordPress automatically creates search-engine-friendly web addresses based on your content structure. When you organize pages in parent/child relationships, WordPress builds logical paths that help both visitors and search engines understand your site structure. For example, with Tri-State's "Electrify and Save" section at <u>tristate.coop/electrify-and-save</u>, you could organize specific programs as sub-pages like <u>tristate.coop/electrify-and-save/programs</u>. This hierarchical structure helps search engines understand which content is related and how your site is organized.
 
 ---
 
