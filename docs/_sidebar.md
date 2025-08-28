@@ -28,6 +28,11 @@
 
 -   **Section 4: Process**
 
+    -   [Design Process](sections/4-process/design.md)
+    -   [Development Process](sections/4-process/development.md)
+    -   [Migration Process](sections/4-process/migration.md)
+    -   [Launch Process](sections/4-process/launch.md)
+    -   [Post-Launch Development](sections/4-process/post-launch-development.md)
     -   [Design & User Experience](sections/4-process/design-ux.md)
 
 -   **Section 5: Visual Directions**
