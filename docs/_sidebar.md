@@ -32,17 +32,16 @@
     -   [Development Process](sections/4-process/development.md)
     -   [Migration Process](sections/4-process/migration.md)
     -   [Launch Process](sections/4-process/launch.md)
+    -   [Project Phases](sections/4-process/project-phases.md)
     -   [Post-Launch Development](sections/4-process/post-launch-development.md)
-    -   [Design & User Experience](sections/4-process/design-ux.md)
 
 -   **Section 5: Visual Directions**
 
     -   [Visual Direction Concepts](sections/5-visual-directions/concepts.md)
 
--   **Section 6: Budget & Timeline**
+-   **Section 6: Budget**
 
     -   [Project Pricing](sections/6-budget-timeline/pricing.md)
-    -   [Project Timeline](sections/6-budget-timeline/timeline.md)
     -   [Ongoing Costs](sections/6-budget-timeline/ongoing-costs.md)
     <!-- -   [Support & Maintenance](sections/6-budget-timeline/support-maintenance.md) -->
 
