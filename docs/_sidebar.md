@@ -47,7 +47,7 @@
 
     -   [Hosting](sections/7-discussion/hosting.md)
     -   [Forms](sections/7-discussion/forms.md)
-    -   [Performance](sections/7-discussion/performance.md)
+    -   [Development Best Practices](sections/7-discussion/development-best-practices.md)
     -   [Discussion Topics](sections/7-discussion/topics.md)
 
 <!-- -   **Section 4: Appendix**
