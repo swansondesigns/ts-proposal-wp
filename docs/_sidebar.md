@@ -11,27 +11,22 @@
     -   [Content Builder](sections/2-requirements/content-builder.md)
     -   [Blogs](sections/2-requirements/blogs.md)
     -   [Podcast](sections/2-requirements/podcast.md)
-    -   [Forms](sections/2-requirements/forms.md)
     -   [Design](sections/2-requirements/design.md)
     -   [SEC Compliance](sections/2-requirements/sec-compliance.md)
     -   [Full Development Freedom](sections/2-requirements/full-development-freedom.md)
     -   [User Access](sections/2-requirements/user-access.md)
     -   [Analytics & Tracking](sections/2-requirements/analytics-tracking.md)
-    -   [Hosting](sections/2-requirements/hosting.md)
 
 -   **Section 3: Deliverables**
 
     -   [Content Builder](sections/3-deliverables/content-builder.md)
     -   [Blogs](sections/3-deliverables/blogs.md)
     -   [Podcast](sections/3-deliverables/podcast.md)
-    -   [Forms](sections/3-deliverables/forms.md)
     -   [Design](sections/3-deliverables/design.md)
     -   [SEC Compliance](sections/3-deliverables/sec-compliance.md)
     -   [Full Development Freedom](sections/3-deliverables/full-development-freedom.md)
     -   [User Access](sections/3-deliverables/user-access.md)
     -   [Analytics & Tracking](sections/3-deliverables/analytics-tracking.md)
-    -   [Hosting](sections/3-deliverables/hosting.md)
-    -   [Performance](sections/3-deliverables/performance.md)
 
 -   **Section 4: Process**
 
@@ -50,6 +45,9 @@
 
 -   **Section 7: For In-Depth Discussion**
 
+    -   [Hosting](sections/7-discussion/hosting.md)
+    -   [Forms](sections/7-discussion/forms.md)
+    -   [Performance](sections/7-discussion/performance.md)
     -   [Discussion Topics](sections/7-discussion/topics.md)
 
 <!-- -   **Section 4: Appendix**
