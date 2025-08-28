@@ -21,7 +21,7 @@ Your project board is organized into clear stages that every feature and task mo
 Each feature, page, or development task gets its own Trello card with:
 
 ![Trello Card Detail View](../../assets/images/trello-card-detail.png)
-*[Image needed: Trello card showing comments, attachments, checklist, due dates]*
+
 -   **Clear description** of what's being built
 -   **Checklist** of technical requirements
 -   **File attachments** for designs, screenshots, or documents
@@ -51,7 +51,7 @@ Instead of scattered emails, all project communication happens in context:
 For complex features or when visual explanation is needed, we use Loom screen recordings to provide clear, detailed communication.
 
 ![Loom Video Integration](../../assets/images/loom-in-trello.png)
-*[Image needed: Trello card with embedded Loom video thumbnail]*
+
 ### When We Use Loom
 
 -   **Feature demonstrations** - Show you exactly how new functionality works
@@ -67,8 +67,6 @@ For complex features or when visual explanation is needed, we use Loom screen re
 **Easy to Consume** You can watch at your own pace, pause to take notes, or re-watch sections as needed.
 
 **Reduces Miscommunication** Visual demonstration eliminates ambiguity about what we're discussing.
-
-**Permanent Reference** All Loom videos are saved in the relevant Trello cards for future reference.
 
 ## Development Workflow Integration
 
