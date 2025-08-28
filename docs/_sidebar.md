@@ -45,13 +45,16 @@
     -   [Ongoing Costs](sections/6-budget-timeline/ongoing-costs.md)
     <!-- -   [Support & Maintenance](sections/6-budget-timeline/support-maintenance.md) -->
 
--   **Section 7: For In-Depth Discussion**
+-   **Section 7: Modern Website Essentials**
 
-    -   [Hosting](sections/7-discussion/hosting.md)
-    -   [Forms](sections/7-discussion/forms.md)
-    -   [Analytics & Tracking](sections/7-discussion/analytics-tracking.md)
-    -   [Development Best Practices](sections/7-discussion/development-best-practices.md)
-    -   [Discussion Topics](sections/7-discussion/topics.md)
+    -   [Hosting](sections/7-essentials/hosting.md)
+    -   [Forms](sections/7-essentials/forms.md)
+    -   [Analytics & Tracking](sections/7-essentials/analytics-tracking.md)
+    -   [Development Best Practices](sections/7-essentials/development-best-practices.md)
+
+-   **Section 8: Discussion Topics**
+
+    -   [Project Questions](sections/8-discussion/topics.md)
 
 <!-- -   **Section 4: Appendix**
 
