@@ -32,7 +32,7 @@ A project of this scope typically follows this timeline:
 #### Phase 4: Content & Testing
 
 -   Content migration
--   User acceptance testing
+-   Client review and feedback
 -   Bug fixes
 -   Performance optimization
 
