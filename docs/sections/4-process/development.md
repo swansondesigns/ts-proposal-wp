@@ -2,13 +2,13 @@
 
 ## Transparent Project Management with Trello
 
-We use Trello boards to manage every aspect of the Tri-State website development, providing complete transparency and streamlined communication throughout the project. This visual project management approach keeps everyone informed and ensures nothing falls through the cracks.
+We use Trello boards to organize the Tri-State website development with a clean, modern approach that keeps everyone informed and communication streamlined throughout the project. This visual project management system makes it easy to stay updated on progress and participate in the development process.
 
 ![Trello Project Board Overview](../../assets/images/trello-main.png)
 
 ### Development Workflow Stages
 
-Your project board is organized into clear stages that every feature and task moves through:
+Your project board can be organized in a way that works best for your team and project needs. This workflow is flexible and can be customized for the specific requirements of the Tri-State project. Here's an example of how the board might be structured:
 
 -   **Scratch Pad** - Initial ideas, notes, and features being planned or clarified
 -   **To-Do** - Features ready to be developed with clear requirements
@@ -18,12 +18,11 @@ Your project board is organized into clear stages that every feature and task mo
 
 ### Individual Feature Cards
 
-Each feature, page, or development task gets its own Trello card with:
+Each feature or development task gets its own Trello card with:
 
 ![Trello Card Detail View](../../assets/images/trello-card-detail.png)
 
 -   **Clear description** of what's being built
--   **Checklist** of technical requirements
 -   **File attachments** for designs, screenshots, or documents
 -   **Threaded comments** for all project communication
 -   **Time stamps** showing progress and decision history
@@ -64,7 +63,7 @@ For complex features or when visual explanation is needed, we use Loom screen re
 
 **Quick to Create** Instead of writing long explanations, we can record a 2-minute screen capture that shows exactly what we mean.
 
-**Easy to Consume** You can watch at your own pace, pause to take notes, or re-watch sections as needed.
+**Easy to Consume** You can watch when you have time rather than coordinating schedules for lengthy meetings. Watch at your own pace, pause to take notes, or re-watch sections as needed.
 
 **Reduces Miscommunication** Visual demonstration eliminates ambiguity about what we're discussing.
 
