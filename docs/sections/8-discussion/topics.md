@@ -12,6 +12,8 @@ The following questions and topics have been identified throughout the proposal 
 
 **Cross-referencing capabilities**: Would you like the ability to link related content across different channels? For example, linking a blog post about energy efficiency to a related resource article about battery storage, or connecting a news announcement to a follow-up feature interview?
 
+**Author Profiles**: What level of author information do you need for blog posts? Are you looking for simple categorization by author name and title, or do you need more robust author pages with bios, photos, contact information, and the ability to view all posts by a specific author? This affects whether we implement basic byline functionality or create a full author management system with dedicated profile pages.
+
 ### Search Functionality
 
 **Search Requirements**: The current Tri-State website has a search feature that may not be meeting your needs effectively. Do you need search functionality on the new site, and if so, what should visitors typically be searching for? Are they looking for specific documents like annual reports or SEC filings, news articles about particular topics, or contact information and services? Understanding the actual use cases will help determine whether a robust search system is worth the investment or if better navigation and content organization might solve the problem more effectively.
