@@ -2,69 +2,55 @@
 
 A Docsify-powered static site for presenting WordPress development proposals. The site features a professional design with custom typography and is deployed via GitHub Pages.
 
-## Quick Start
+## Development Guidelines
 
-### Local Development
+### Commit Standards
 
-1. **Open in VS Code:** Navigate to the `docs/` folder
-2. **Start Live Server:** Right-click `index.html` → "Open with Live Server"
-3. **Auto-reload:** Live Server will automatically refresh on file changes
+This project follows strict commit practices to maintain code quality and project history:
 
-### File Structure
+#### Commit Message Format
+
+All commit messages **must** follow the [Conventional Commits](https://www.conventionalcommits.org/) specification:
 
 ```
-docs/
-├── index.html          # Docsify configuration and setup
-├── _coverpage.md       # Landing page cover content
-├── _sidebar.md         # Navigation sidebar
-├── README.md           # This file (not shown to visitors)
-├── styles.css          # Custom styling and typography
-├── .nojekyll          # Disables Jekyll processing
-└── slides/            # Proposal content sections
-    ├── 01-introduction.md
-    ├── 02-deliverables.md
-    ├── 03-ongoing-costs.md
-    └── 04-exclusions.md
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
 ```
 
-## Configuration
+**Examples:**
 
-### Docsify Settings
-- **`onlyCover: true`** - Shows only cover page initially
-- **Plugins enabled:** Search, Copy Code, Pagination
+```
+feat: add dark mode toggle functionality
+fix(styles): correct sidebar alignment in mobile view
+docs: update development guidelines
+style: format CSS variables for better readability
+refactor: reorganize dark mode variables
+```
 
-### Theming
-- **Base theme:** Vue theme with custom overrides
-- **Typography:** Cormorant Garamond (headings), Open Sans (body), Raleway (accents)
-- **Custom styles:** Defined in `styles.css`
+#### Commit Types
 
-### Content Management
-- Edit proposal sections in `slides/` directory
-- Update navigation in `_sidebar.md`
-- Modify cover page in `_coverpage.md`
-- Customize styling in `styles.css`
+-   **feat:** A new feature
+-   **fix:** A bug fix
+-   **docs:** Documentation only changes
+-   **style:** Changes that do not affect the meaning of the code (white-space, formatting, etc.)
+-   **refactor:** A code change that neither fixes a bug nor adds a feature
+-   **test:** Adding missing tests or correcting existing tests
+-   **chore:** Changes to the build process or auxiliary tools
 
-## Deployment
+### Workflow Requirements
 
-### GitHub Pages Setup
-1. **Repository Settings** → **Pages**
-2. **Source:** Deploy from a branch
-3. **Branch:** `main`
-4. **Folder:** `/docs` (important!)
+#### Human-Initiated Commits
 
-### Why `/docs` folder?
-- GitHub Pages serves underscore files (`_sidebar.md`, `_coverpage.md`) correctly
-- No need for `.nojekyll` in root (though we include one for safety)
-- Cleaner separation of site files from project files
+-   **All commits are user-initiated** - No automated commits without explicit human approval
+-   **Commit messages must be presented to the user** before execution for review and approval
+-   Users have final authority over all commit messages and timing
 
+#### Pre-Commit Checklist
 
-## Troubleshooting
+Before any commit, ensure:
 
-**Site shows "Loading..."**
-- Check browser console for 404 errors
-- Ensure GitHub Pages is set to `/docs` folder
-- Verify `.nojekyll` file exists in `docs/`
-
-**Search not working**
-- Search plugin requires serving over HTTP (not file://)
-- Use local server for testing search functionality
+-   [ ] Commit message follows conventional format
+-   [ ] Commit message accurately describes the changes
