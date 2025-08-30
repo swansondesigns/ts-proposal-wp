@@ -9,7 +9,7 @@
 -   **Section 2: Client Requirements**
 
     -   [Content Builder](sections/2-requirements/content-builder.md)
-    -   [Blogs](sections/2-requirements/blogs.md)
+    -   [Publication Channels](sections/2-requirements/publication-channels.md)
     -   [Podcast](sections/2-requirements/podcast.md)
     -   [Design](sections/2-requirements/design.md)
     -   [SEC Compliance](sections/2-requirements/sec-compliance.md)
@@ -19,7 +19,7 @@
 -   **Section 3: Deliverables**
 
     -   [Content Builder](sections/3-deliverables/content-builder.md)
-    -   [Blogs](sections/3-deliverables/blogs.md)
+    -   [Publication Channels](sections/3-deliverables/publication-channels.md)
     -   [Podcast](sections/3-deliverables/podcast.md)
     -   [Design](sections/3-deliverables/design.md)
     -   [SEC Compliance](sections/3-deliverables/sec-compliance.md)

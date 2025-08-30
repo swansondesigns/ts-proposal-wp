@@ -1,4 +1,4 @@
-# Blogs
+# Publication Channels
 
 ## Multiple Content Collections for Energy Education
 
