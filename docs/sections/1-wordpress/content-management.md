@@ -1,28 +1,26 @@
 # Content Management
 
-## What WordPress Provides for Managing Your Content
+## Organizing Content in Wordpress
 
-WordPress comes with a comprehensive set of tools for creating, organizing, and managing your website content. Understanding these built-in features helps clarify what's already included versus what requires custom development.
+WordPress comes with a **comprehensive set of tools for creating**, organizing, and managing your website content. Understanding these built-in features helps clarify what's already included versus what requires custom development.
 
-### Pages and Collections
+### Pages
 
-WordPress organizes content in two fundamental ways:
+Pages are for standalone content that doesn't change often and isn't tied to a specific date, such as your _About Us_ page, your _Services_ page, or your _Contact_ page. **These are the backbone of your website structure**.
 
-#### Pages
+Pages can be organized hierarchically with main pages and sub-pages underneath them, creating a logical structure for your website content.
 
-Pages are for standalone content that doesn't change often and isn't tied to a specific date. Think of your About Us page, your Services page, or your Contact page. These are the backbone of your website structure.
+### Collections
 
-Pages can be organized like folders on your computer. You can have main pages with sub-pages underneath them. For example, you might have a main "Services" page with individual service pages nested below it. This creates logical website addresses like yoursite.com/services/consulting.
-
-#### Collections
-
-Collections are groups of similar items that share common characteristics. WordPress comes with one built-in collection called "Blog" for articles and news updates. But collections can be created for any type of content you need to organize - team members, projects, testimonials, events, or products.
+Collections are groups of similar items that share common characteristics. WordPress includes a built-in collection called “Blog” for articles and news updates, but you can create collections for any type of content you need to organize, such as team members, projects, testimonials, events, or products.
 
 There are two ways collections are typically used:
 
-**Visitable Collections** - These create their own webpages that visitors can view directly. Each blog post, for example, has its own webpage with its own web address. A visitor can read the full article by clicking through to it.
+-   **Visitable Collections** - These create their own webpages that visitors can view directly. Each blog post, for example, has its own webpage with its own web address. A visitor can read the full article by clicking through to it.
 
-**Component Collections** - These store content that gets displayed as part of other webpages, but don't create standalone webpages themselves. For instance, you might have a collection of team member profiles that appear on your About page, or testimonials that display throughout your site. The information is stored in an organized way, but visitors don't navigate to individual testimonial pages - they see them integrated into your other content.
+-   **Component Collections** - These store content that gets displayed as part of other webpages, but don't create standalone webpages themselves. For instance, you might have a collection of team member profiles that appear on your About page, or testimonials that display throughout your site. The information is stored in an organized way, but visitors don't navigate to individual testimonial pages - they see them integrated into your other content.
+
+### Tagging and categories
 
 All collections can be organized using categories (like sections in a newspaper) and tags (like keywords that describe the content). WordPress automatically keeps collections organized by date as well, with the newest items appearing first when you view them in the admin area.
 
@@ -34,15 +32,11 @@ While we include this description for completeness, modern websites do not use t
 
 ### Managing Images and Files
 
-The Media Library is WordPress's filing system for all your images, documents, and other files. When you upload an image, WordPress automatically creates several sizes - thumbnail, medium, large, and full size. This means your website can display the right size image for different situations, keeping pages loading quickly.
-
-You can upload files by dragging them directly into WordPress, and the system organizes them by date. Finding files later is simple with built-in search and filtering tools. Basic image editing is included too - you can crop images, rotate them, or flip them without needing separate software.
+The Media Library is the WordPress system for managing all images, documents and files. Images are optimized for the web without additional steps. All meta data is easily visible/editable and the search feature is fast and easy. Thumbnails make it easy to identify which asset you are looking for.
 
 ### Navigation Menus
 
-Your website's navigation menus help visitors find their way around. WordPress lets you create different menus for different areas of your site - typically a main menu in the header, maybe a footer menu with important links, and sometimes sidebar menus for specific sections.
-
-Creating and organizing menus is straightforward. You simply choose which pages, collection items, or custom links to include, then drag them into the order you want. You can create dropdown menus by dragging items slightly to the right to nest them under other items.
+WordPress makes it easy to create and organize your website's navigation without any technical expertise. The system uses a simple drag-and-drop interface - you can arrange your menu items by dragging them into the order you want and create dropdown menus by nesting items under others. It’s fast, simple and intuitive.
 
 ### Search Functionality
 
@@ -50,8 +44,8 @@ Every WordPress site includes basic search functionality. Visitors can search fo
 
 ### Foundation for Search Engines
 
-WordPress automatically creates search-engine-friendly web addresses based on your content structure. When you organize pages in parent/child relationships, WordPress builds logical paths that help both visitors and search engines understand your site structure. For example, with Tri-State's "Electrify and Save" section at <u>tristate.coop/electrify-and-save</u>, you could organize specific programs as sub-pages like <u>tristate.coop/electrify-and-save/programs</u>. This hierarchical structure helps search engines understand which content is related and how your site is organized.
+WordPress automatically generates search-engine-friendly web addresses based on your site structure. When pages are organized in parent/child relationships, it creates logical paths that help both visitors and search engines understand your site. For example, a main “Services” page with a “Consulting” sub-page becomes <u>example.com/services/consulting</u>. This hierarchical structure clarifies content relationships and improves overall site organization.
 
 ---
 
-*This foundation of features comes standard with WordPress. In the Custom Development section, we'll explain how we build upon these capabilities to create the specific features and functionality your website needs.*
+_This foundation of features comes standard with WordPress. In the Custom Development section, we'll explain how we build upon these capabilities to create the specific features and functionality your website needs._
