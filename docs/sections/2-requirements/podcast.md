@@ -22,7 +22,7 @@ The podcast needs a comprehensive system for managing episodes including:
 -   Show notes and episode descriptions
 -   Guest information and bios
 
-The Transistor player handles sharing and subscription features.
+?>The **Transistor player** handles sharing and subscription features.
 
 ### Content Integration
 
@@ -31,4 +31,3 @@ While distinct from blogs, the podcast should integrate with the broader website
 -   Cross-promotion with related blog content
 -   Inclusion in site-wide search results
 -   Connection to relevant resource materials
--   Guest content from other site sections

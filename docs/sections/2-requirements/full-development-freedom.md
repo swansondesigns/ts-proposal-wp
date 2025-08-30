@@ -2,7 +2,7 @@
 
 ## Your Website, Your Rules
 
-With full development freedom, Tri-State gets a website built exactly to your specifications without the limitations and restrictions that come with platform-based solutions. This means unlimited customization capabilities and complete control over your digital presence.
+With full development freedom, Tri-State gets a website built exactly to your specifications without the limitations and restrictions that come with platform-based solutions. This means **unlimited customization capabilities** and **complete control** over your digital presence.
 
 ### Unlimited Customization Capabilities
 

@@ -1,8 +1,17 @@
-# Blogs
-
-## Multiple Publication Channels
+# Publication Channels
 
 Tri-State requires several distinct publication channels, each serving different purposes and audiences within the energy cooperative community.
+
+## Channel Management
+
+Each of these channels needs:
+
+-   Its own identity while maintaining overall brand consistency
+-   Independent browsing and archive pages
+-   Clear labeling so visitors understand what type of content they're viewing
+-   Appropriate categorization and tagging within each channel
+
+The system must make it easy for the marketing team to manage multiple content streams without confusion, while presenting a unified experience to website visitors.
 
 ### Blog
 
@@ -23,15 +32,3 @@ Industry-focused articles covering major infrastructure projects, policy develop
 ### Newsletter Archive
 
 Historical member newsletters and email communications need to remain accessible and searchable. This maintains continuity for long-term members and creates a comprehensive resource of past energy tips, programs, and cooperative updates.
-
-### Channel Management
-
-Each of these channels needs:
-
--   Its own identity while maintaining overall brand consistency
--   Independent browsing and archive pages
--   Clear labeling so visitors understand what type of content they're viewing
--   Appropriate categorization and tagging within each channel
-
-The system must make it easy for the marketing team to manage multiple content streams without confusion, while presenting a unified experience to website visitors.
-
