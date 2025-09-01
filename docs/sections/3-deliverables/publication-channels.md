@@ -30,5 +30,4 @@ The marketing and member services team will be able to:
 -   Create content series (multi-part energy efficiency guides)
 -   Highlight trending topics and most popular money-saving tips
 -   Cross-reference related energy topics across channels
--   Track member engagement with different content types
 -   Feature success stories and member testimonials
