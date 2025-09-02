@@ -10,7 +10,6 @@ The design process begins with understanding your organization:
 
 -   **Brand audit** - Review existing brand materials and guidelines
 -   **Stakeholder interviews** - Understand goals and preferences from key team members
--   **Competitor analysis** - Research industry standards and opportunities for differentiation
 -   **Content planning** - Identify key pages and content types that need custom design treatment
 -   **Technical requirements** - Understand any design constraints or special functionality needs
 
