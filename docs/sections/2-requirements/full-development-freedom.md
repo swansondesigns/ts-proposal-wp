@@ -18,7 +18,7 @@ Website-as-a-service platforms impose restrictions that limit your options:
 
 As a generation and transmission organization, your digital needs are unique and evolving:
 
--   **Custom functionality** — Features specific to utility companies and cooperatives
+-   **Custom functionality** — Features specific to generation and transmission organizations
 -   **Integration requirements** — Seamless connection with Salesforce, Mailchimp, and other business tools
 -   **Compliance needs** — SEC requirements and regulatory standards that change over time
 -   **Future growth** — Ability to add new features as your digital strategy evolves
