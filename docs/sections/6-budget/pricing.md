@@ -1,10 +1,10 @@
 # Project Pricing
 
-## Investment Overview
+## Cost Overview
 
 This project represents a comprehensive website development effort including custom design, development, testing, and deployment.
 
-### Development Investment
+### Development Cost
 
 The complete project will be priced based on the scope of work outlined in this proposal. This includes:
 
@@ -25,7 +25,7 @@ For any work outside the defined scope or future enhancements, our hourly rate i
 
 ### What's Included
 
-Your investment covers:
+Project cost covers:
 
 #### Design Phase
 
